@@ -1,4 +1,4 @@
-# React - Buscador de Imágenes
+# React - Buscador de Letras de Canciones
 
 Proyecto didáctico hecho en React.
 
